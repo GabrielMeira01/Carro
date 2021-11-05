@@ -1,0 +1,16 @@
+C:\Users\gabri\Desktop\Repositorio\Carro\bin\Debug\net5.0\Carro.exe
+C:\Users\gabri\Desktop\Repositorio\Carro\bin\Debug\net5.0\Carro.deps.json
+C:\Users\gabri\Desktop\Repositorio\Carro\bin\Debug\net5.0\Carro.runtimeconfig.json
+C:\Users\gabri\Desktop\Repositorio\Carro\bin\Debug\net5.0\Carro.runtimeconfig.dev.json
+C:\Users\gabri\Desktop\Repositorio\Carro\bin\Debug\net5.0\Carro.dll
+C:\Users\gabri\Desktop\Repositorio\Carro\bin\Debug\net5.0\ref\Carro.dll
+C:\Users\gabri\Desktop\Repositorio\Carro\bin\Debug\net5.0\Carro.pdb
+C:\Users\gabri\Desktop\Repositorio\Carro\obj\Debug\net5.0\Carro.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Repositorio\Carro\obj\Debug\net5.0\Carro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\Repositorio\Carro\obj\Debug\net5.0\Carro.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\Repositorio\Carro\obj\Debug\net5.0\Carro.AssemblyInfo.cs
+C:\Users\gabri\Desktop\Repositorio\Carro\obj\Debug\net5.0\Carro.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Repositorio\Carro\obj\Debug\net5.0\Carro.dll
+C:\Users\gabri\Desktop\Repositorio\Carro\obj\Debug\net5.0\ref\Carro.dll
+C:\Users\gabri\Desktop\Repositorio\Carro\obj\Debug\net5.0\Carro.pdb
+C:\Users\gabri\Desktop\Repositorio\Carro\obj\Debug\net5.0\Carro.genruntimeconfig.cache
